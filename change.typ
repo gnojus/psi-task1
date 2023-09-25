@@ -2,6 +2,7 @@
 
 Norėdamas pakeisti susitartus projekto aspektus,
 užsakovas turi pranešti projekto vadovui el. paštu.
+Keitimams sekti bus naudojant Jira aptarnavimo sistema.
 
 Esant minimaliems pakeitimams
 (pavyzdžiui smulkūs vartotojo sąsajos pokyčiai),
