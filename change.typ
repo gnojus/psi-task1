@@ -13,3 +13,4 @@ vykdomos papildomos derybos su užsakovu dėl papildomų kaštų.
 Abiems pusėms sutarus,
 pakeitimai bus įgyvendinti gavus papildomai laiko bei pinigų,
 arba nusprendus pakeitimą atlikti kito funkcionalumo sąskaita.
+Šie pakeitimai turi būti įforminti raštu iš abiejų šalių.
